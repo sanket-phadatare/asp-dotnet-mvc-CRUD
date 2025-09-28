@@ -57,10 +57,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
 
-Create a Azure account and publish the app from Visual Studio.
-Currently unable to deploy to Azure using .Net Core 3.1. I will keep an eye on this [deployment issue](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-1/) + [github issue](https://github.com/Azure/app-service-announcements-discussions/issues/118) and update when the SDK becomes available.
 
 ## Built With
 
@@ -74,14 +71,3 @@ Currently unable to deploy to Azure using .Net Core 3.1. I will keep an eye on t
 
 Please read feel free to submit a pull request
 
-## Authors
-
-* **Carlton Stith** - [@carltonstith](https://twitter.com/carltonstith)
-
-## License
-
-This project is licensed under the MIT License
-
-## Acknowledgments
-
-* [CodeAffection](https://www.youtube.com/watch?v=AHqIrJ_PlPY&t=2047s)
